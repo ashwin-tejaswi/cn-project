@@ -37,7 +37,6 @@ This project uses Python’s built-in **socket** module and demonstrates the bas
  ✔ 1. Start the Server  
 Open Terminal 1 in VS Code:
 
-```bash
 python server.py
 
  ✔ 2. Run the Client
