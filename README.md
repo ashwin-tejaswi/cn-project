@@ -34,13 +34,13 @@ This project uses Python’s built-in **socket** module and demonstrates the bas
 
 ## 🛠 How to Run the Project
 
-### ✔ 1. Start the Server  
+ ✔ 1. Start the Server  
 Open Terminal 1 in VS Code:
 
 ```bash
 python server.py
 
-### ✔ 2. Run the Client
+ ✔ 2. Run the Client
 Open Terminal 2 in VS Code:
 
 python client.py
