@@ -47,3 +47,15 @@ python client.py
 Enter the filename you want to retrieve, example:
 
 sample.txt
+
+<img width="868" height="82" alt="Screenshot 2025-11-30 213041" src="https://github.com/user-attachments/assets/1804bd69-3f52-49e5-8a4b-88e496c1c705" />
+
+
+
+
+<img width="674" height="158" alt="Screenshot 2025-11-30 213119" src="https://github.com/user-attachments/assets/02489594-0545-406d-bf77-0a2dac535713" />
+
+
+<img width="777" height="152" alt="Screenshot 2025-11-30 213134" src="https://github.com/user-attachments/assets/f4b02220-d4c8-40a4-b901-fb768164d2ab" />
+
+
